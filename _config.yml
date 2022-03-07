@@ -1,19 +1,19 @@
 #
-# 这个文档包含了本博客的设定信息，你可以编辑它来个性化自己的博客，
+# 老夫聊发少年狂
 #
 
-# 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
-# 注意，“name: LOFFER”，冒号后面的空格不可以省略。
-# 井号后面的文字是说明文档，不会被程序读取。
+# 终有归途
+# name: 终有归途
+# 存放地
 
-# 描述/签名
-name: LOFFER
-description: 一个可以fork的博客
+# 十年一觉扬州梦
+name: 终有归途
+description: 无老哥
 
-# 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
+# tianshisu.github.io
 url: 
 
-# 添加你的博客的二级域名，一般来说是你的repository名
+# /tianshisu
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
 baseurl: /LOFFER
