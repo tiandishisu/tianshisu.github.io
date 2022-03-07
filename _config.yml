@@ -11,12 +11,12 @@ name: 终有归途
 description: 无老哥
 
 # tianshisu.github.io
-url: 
+url: https://github.com/tiandishisu/tianshisu.github.io
 
 # /tianshisu
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl: /tianshisu
 
 
 #
